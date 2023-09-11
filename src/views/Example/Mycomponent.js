@@ -12,7 +12,7 @@ class myComponent extends React.Component {
       { id: "a125", job: "Project manager", salary: "1000" },
     ],
   };
-
+  // sdsdsgit
   handelFirstName = (event) => {
     this.setState({
       firstName: event.target.value,
